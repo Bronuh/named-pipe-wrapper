@@ -1,4 +1,4 @@
-# Named Pipe Wrapper for .NET 4.0
+# Named Pipe Wrapper for .NET Core 3.1
 
 A simple, easy to use, strongly-typed wrapper around .NET named pipes.
 
@@ -15,7 +15,7 @@ Available as a [NuGet package](https://www.nuget.org/packages/NamedPipeWrapper/)
 
 # Requirements
 
-Requires .NET 4.0 full.
+Requires .NET Core 3.1
 
 # Usage
 
